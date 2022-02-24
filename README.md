@@ -15,9 +15,11 @@ TL;DR: https://computercraft.ru/profile/23675-programcrafter/
 - Minecraft server didn't open, so my works weren't seen "in life" 🤔
 
 ### What am I doing now
-Learning Rust (at 02.02.2022 - writing web server with non-HTML pages).
+Playing Minecraft) (https://computercraft.ru/topic/5379-maynkraft-server-igraem-testiruem-dorabatyvaem/)
 
 ### My unfinished projects
+- ***OpenComputers program for making computer-controllable factories with IC2 and AE2***
+- OCTechnics - mod for doing the same but without need to move items between inventories
 - ***Roctorio (there is a separate repository for it)***
 - my own CMS in Python (what did I need it for?)
 - auto-filling template of mod for Sid Meier's Civilization V
