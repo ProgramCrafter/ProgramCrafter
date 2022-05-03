@@ -20,10 +20,8 @@ Playing Minecraft) (https://computercraft.ru/topic/5379-maynkraft-server-igraem-
 ### My unfinished projects
 - ***OpenComputers program for making computer-controllable factories with IC2 and AE2***
 - OCTechnics - mod for doing the same but without need to move items between inventories
-- ***Roctorio (there is a separate repository for it)***
 - my own CMS in Python (what did I need it for?)
 - auto-filling template of mod for Sid Meier's Civilization V
-- neural network without ***numpy*** (if you know why my network does not train, please help me)
 - tool for designing Kivy interfaces
 - book about programming in Python, from zero level
   - really it's hard to do: what if someone doesn't even know what he needs?
@@ -34,6 +32,7 @@ Playing Minecraft) (https://computercraft.ru/topic/5379-maynkraft-server-igraem-
 - tool showing recent freelance orders from some sources (I didn't freelance yet, but I'm going to)
 - small, almost non-interactive site for a company
 - "anonimizing" bot in Telegram
+- neural network predicting rating of Codeforces task based on time and memory used by some accepted solution
 
 ### How to contact me *✉*
 - open an issue here, if I have time I'll contact you
