@@ -1,41 +1,21 @@
 ### Who am I
-You can name me ProgramCrafter, or CraftProger.
 
-I am a middle developer; I know such programming languages as C++, Python, Lua, JavaScript...
-As well, I had written some code in ActionScript and Rust.
-I've seen Java and C# but didn't make any program with them.
+I'm Ender "ProgramCrafter" Ting, of House Ting. A shorthand nickname I commonly use is "pcrafter".
 
-I'm inactively (😉) searching for some interesting tasks to work on. If you have one, feel free to contact me.
+I am a middle developer, and can work with either frontend or backend; I know such programming languages as Python, Lua, Rust, C++.
+My experience includes development on TON Blockchain (and only it, so no EVM-compatibles!), which meant both designing contract architectures and writing code. I've largely moved to helping others to develop there, but my level in writing smart contracts in FunC matches senior dev.
+
+It is possible you'll capture my interest by some task to work on! If you have one, feel free to contact me, whether by pinging on your project or opening an issue here. Though, taking on a full project is not very feasible because of studies (however, [ting-expense-a repo](https://github.com/ProgramCrafter/ting-expense-a/) is really under scope of project practice in my uni). Please check out my repos for interests!
 
 ### Where it all started:
 TL;DR: https://computercraft.ru/profile/23675-programcrafter/
-- I registered on forum COMPUTERCRAFT.RU to participate in some special orders from admins.
+- I registered on forum COMPUTERCRAFT.RU to complete some special orders from admins.
 - More specifically, it was https://computercraft.ru/topic/3292-printy-info-doska-i-pr/
-- As well, I wanted to play Minecraft with OpenComputers on a server with friendly people.
-- Minecraft server didn't open, so my works weren't seen "in life" 🤔
+- Also, I wanted to play Minecraft with OpenComputers on a server with friendly people.
+- Minecraft server hasn't ever opened, so my works hadn't been seen "in life" yet 🤔
 
 ### What am I doing now
-Playing Minecraft) (https://computercraft.ru/topic/5379-maynkraft-server-igraem-testiruem-dorabatyvaem/)
-
-### My unfinished projects
-- ***OpenComputers program for making computer-controllable factories with IC2 and AE2***
-- OCTechnics - mod for doing the same but without need to move items between inventories
-- my own CMS in Python (what did I need it for?)
-- auto-filling template of mod for Sid Meier's Civilization V
-- tool for designing Kivy interfaces
-- book about programming in Python, from zero level
-  - really it's hard to do: what if someone doesn't even know what he needs?
-- ***Mov processor architecture in several languages (currently making in Scala)***
-
-### My finished projects
-- chat reader for EPOS
-- tool showing recent freelance orders from some sources (I didn't freelance yet, but I'm going to)
-- small, almost non-interactive site for a company
-- "anonimizing" bot in Telegram
-- neural network predicting rating of Codeforces task based on time and memory used by some accepted solution
-
-### How to contact me *✉*
-- open an issue here, if I have time I'll contact you
+Studying in National Research Nuclear University "Moscow Engineering & Physics Institute". A creativity outlet is writing and drawing, for private use.
 
 <!--
 **ProgramCrafter/ProgramCrafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
