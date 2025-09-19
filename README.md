@@ -5,7 +5,15 @@ I'm Ender "ProgramCrafter" Ting, of House Ting. A shorthand nickname I commonly 
 I am a middle developer, and can work with either frontend or backend; I know such programming languages as Python, Lua, Rust, C++.
 My experience includes development on TON Blockchain (and only it, so no EVM-compatibles!), which meant both designing contract architectures and writing code. I've largely moved to helping others to develop there, but my level in writing smart contracts in FunC matches senior dev.
 
-It is possible you'll capture my interest by some task to work on! If you have one, feel free to contact me, whether by pinging on your project or opening an issue here. Though, taking on a full project is not very feasible because of studies (however, [ting-expense-a repo](https://github.com/ProgramCrafter/ting-expense-a/) is really under scope of project practice in my uni). Please check out my repos for interests!
+### Stories of an Ancient Way
+To see. To know.  
+To have attunement to your kin, and hold everyone to be your kin. To accept.
+
+To collect into your existence. Evidence over conclusions.  
+Subconsciously rather than consciously, if you have the choice, and moreso if you do not.
+
+To be part of Nature's forces. To share in its power.  
+To signal into the vastness, and to receive signals of theirs.
 
 ### Where it all started:
 TL;DR: https://computercraft.ru/profile/23675-programcrafter/
